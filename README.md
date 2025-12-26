@@ -3,7 +3,7 @@
 A fully functional, responsive calculator built using Vanilla JavaScript. This project demonstrates the ability to handle mathematical expressions, user input validation, and advanced CSS Grid layouts.
 
 ## 🚀 Live Demo
-*(Insert your GitHub Pages link here once hosted)*
+*()*
 
 ## ✨ Key Features
 - **Standard Arithmetic:** Supports addition, subtraction, multiplication, and division.
@@ -18,7 +18,7 @@ A fully functional, responsive calculator built using Vanilla JavaScript. This p
 - **String Manipulation:** Employs `.slice()` methods for the backspace/delete functionality.
 
 ## 📂 Project Structure
-```text
+
 Calculator-App/
 │
 ├── index.html    # Calculator structure and button mapping
